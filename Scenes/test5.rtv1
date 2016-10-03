@@ -1,0 +1,10 @@
+//CAMERA   PosX    PosY    PosZ    Phi     Theta   Ambient
+CAMERA     0.0     0.0     6.0     180.0   0.0     0.0
+
+//LIGHT    PosX    PosY    PosZ    Col_r Col_g Col_b   Intensity
+LIGHT      2.2    -1.85    5.0     255   0     0       1.0
+LIGHT      0.0     2.0     5.0     0     255   0       1.0
+LIGHT     -2.2    -1.85    5.0     0     0     255     1.0
+
+//OBJECT   PosX    PosY    PosZ    Size    Col_r Col_g Col_b  NormalX    NormalY    NormalZ    Angle  Spec
+SPHERE     0.0     0.0     0.0     3.0     255   255   255    0.0        1.0        0.0        0.0    0.0
